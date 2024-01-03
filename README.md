@@ -13,6 +13,9 @@ This repository showcases the outcomes of tasks undertaken in the PwC Switzerlan
     - Calls by time
     - Average speed of answer
     - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+ 
+[Task 1 Call Center Dashboard](##data-visualization-----call-center-dashboard)
+
 
 ## Data Visualization --- Call Center Dashboard
 
