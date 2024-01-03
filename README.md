@@ -43,5 +43,11 @@ This repository showcases the outcomes of tasks undertaken in the PwC Switzerlan
   - Create a dashboard for the HR manager that reflects all relevant Key Performance Indicators (KPIs) in the dataset
   - Identify potential root causes for the slow progress in achieving gender balance at the executive management level
 
+## Data Visualization --- Diversity & Inclusion Dashboard
 
-### insert dashboard screenshot here.
+![Task 3 Dashboard 1](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%203/task-3-dashboard-images/task-3-1.png)
+![Task 3 Dashboard 2](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%203/task-3-dashboard-images/task-3-2.png)
+![Task 3 Dashboard 3](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%203/task-3-dashboard-images/task-3-3.png)
+![Task 3 Dashboard 4](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%203/task-3-dashboard-images/task-3-4.png)
+![Task 3 Dashboard 5](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%203/task-3-dashboard-images/task-3-5.png)
+![Task 3 Dashboard 6](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%203/task-3-dashboard-images/task-3-6.png)
