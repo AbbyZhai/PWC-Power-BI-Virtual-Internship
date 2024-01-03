@@ -3,6 +3,12 @@
 ## Introduction
 This repository showcases the outcomes of tasks undertaken in the PwC Switzerland PowerBI Virtual Case Experience, designed by Forage. The virtual internship simulates the workflow of the Digital Accelerator team at PWC Switzerland, utilizing PowerBI to tell data stories and enhance the decision-making process.
 
+## Task List
+- [Task 1 --- Call Center Dashboard](##data-visualization-----call-center-dashboard)
+- [Task 2 --- Call Churn Dashboard](##data-visualization-----churn-dashboard)
+- [Task 3 --- Diversity & Inclusion Dashboard](##data-visualization-----diversity-&-inclusion-dashboard)
+
+
 ## Task 1: Call Center Dashboard - visualizing customer and agent behavior
 - Problem: The manager at PhoneNow company is looking for transparency and insight into the Call Centre dataset to understand an accurate overview of long-term trends in customer and agent behavior.
 - Objective:
@@ -13,9 +19,6 @@ This repository showcases the outcomes of tasks undertaken in the PwC Switzerlan
     - Calls by time
     - Average speed of answer
     - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
- 
-[Task 1 Call Center Dashboard](##data-visualization-----call-center-dashboard)
-
 
 ## Data Visualization --- Call Center Dashboard
 
