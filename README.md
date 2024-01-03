@@ -12,7 +12,6 @@ This virtual experience program has 3 main tasks:
 - [Task 2 --- Call Churn Dashboard](##data-visualization-----churn-dashboard)
 - [Task 3 --- Diversity & Inclusion Dashboard](##data-visualization-----diversity-&-inclusion-dashboard)
 
-
 ## Task 1: Call Center Dashboard - visualizing customer and agent behavior
 - Problem: The manager at PhoneNow company is looking for transparency and insight into the Call Centre dataset to understand an accurate overview of long-term trends in customer and agent behavior.
 - Objective:
@@ -24,7 +23,7 @@ This virtual experience program has 3 main tasks:
     - Average speed of answer
     - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
-## Data Visualization --- Call Center Dashboard
+## Data Visualization
 
 ![Task 1 Dashboard](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%201/task-1.png)
 
@@ -35,7 +34,7 @@ This virtual experience program has 3 main tasks:
   - Create a self-explanatory dashboard for the customer retention manager that reflects all relevant Key Performance Indicators (KPIs) in the dataset
   - Write a summary to explain your findings and suggestions
 
-## Data Visualization --- Churn Dashboard
+## Data Visualization
 
 Dashboard Outline:
 - Churn Dashboard
@@ -60,7 +59,7 @@ Dashboard Outline:
   - Create a dashboard for the HR manager that reflects all relevant Key Performance Indicators (KPIs) in the dataset
   - Identify potential root causes for the slow progress in achieving gender balance at the executive management level
 
-## Data Visualization --- Diversity & Inclusion Dashboard
+## Data Visualization
 
 Dashboard Outline:
 - Diversity & Inclusion Dashboard
@@ -76,3 +75,6 @@ Dashboard Outline:
 ![Task 3 Dashboard 4](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%203/task-3-dashboard-images/task-3-4.png)
 ![Task 3 Dashboard 5](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%203/task-3-dashboard-images/task-3-5.png)
 ![Task 3 Dashboard 6](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%203/task-3-dashboard-images/task-3-6.png)
+
+## Technical Stack 
+Data Cleaning, Data Transformation, Data Modeling, Data Visualization, and Writing. 
