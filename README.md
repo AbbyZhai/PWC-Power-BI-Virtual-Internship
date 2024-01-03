@@ -1,4 +1,4 @@
-# <img src="https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Power-BI-Logo.png" alt="Alt Text" width="70"/> PWC Power BI Virtual Internship
+# <img src="https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%201/Power-BI-Logo.png" alt="Alt Text" width="70"/> PWC Power BI Virtual Internship
 
 ## Introduction
 This repository showcases the outcomes of tasks undertaken in the PwC Switzerland PowerBI Virtual Case Experience, designed by Forage. The virtual internship simulates the workflow of the Digital Accelerator team at PWC Switzerland, utilizing PowerBI to tell data stories and enhance the decision-making process.
