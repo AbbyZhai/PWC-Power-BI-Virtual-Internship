@@ -27,12 +27,15 @@ This repository showcases the outcomes of tasks undertaken in the PwC Switzerlan
 
 ## Data Visualization --- Churn Dashboard
 
-![Task 2 Dashboard 1](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%201/task-1.png)
-![Task 2 Dashboard 1](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%201/task-1.png)
-![Task 2 Dashboard 1](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%201/task-1.png)
-![Task 2 Dashboard 1](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%201/task-1.png)
-![Task 2 Dashboard 1](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%201/task-1.png)
-![Task 2 Dashboard 1](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%201/task-1.png)
+![Task 2 Dashboard 1](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%202/task-2-dashboard-images/task-2-1.png)
+![Task 2 Dashboard 2.1](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%202/task-2-dashboard-images/task-2-2.1.png)
+![Task 2 Dashboard 2.2](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%202/task-2-dashboard-images/task-2-2.2.png)
+![Task 2 Dashboard 3.1](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%202/task-2-dashboard-images/task-2-3.1.png)
+![Task 2 Dashboard 3.2](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%202/task-2-dashboard-images/task-2-3.2.png)
+![Task 2 Dashboard 4.1](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%202/task-2-dashboard-images/task-2-4.1.png)
+![Task 2 Dashboard 4.2](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%202/task-2-dashboard-images/task-2-4.2.png)
+![Task 2 Dashboard 5](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%202/task-2-dashboard-images/task-2-5.png)
+
 ## Task 3: Diversity & Inclusion Dashboard - visualizing gender balance and diversity
 - Problem: Human Resources at the telecom company is seeking assistance in advancing diversity and inclusion, especially in achieving gender balance at the executive management level. Despite their efforts, they have not observed any significant progress yet.
 - Objective:
