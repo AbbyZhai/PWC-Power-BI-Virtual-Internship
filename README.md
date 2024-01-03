@@ -27,6 +27,13 @@ This repository showcases the outcomes of tasks undertaken in the PwC Switzerlan
 
 ## Data Visualization --- Churn Dashboard
 
+Dashboard Outline:
+- Churn Dashboard
+- Demographics (Distribution & Key Influencers)
+- Payments (Distribution & Key Influencers)
+- Services (Distribution & Key Influencers)
+- Insight & Suggestion
+
 ![Task 2 Dashboard 1](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%202/task-2-dashboard-images/task-2-1.png)
 ![Task 2 Dashboard 2.1](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%202/task-2-dashboard-images/task-2-2.1.png)
 ![Task 2 Dashboard 2.2](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%202/task-2-dashboard-images/task-2-2.2.png)
@@ -44,6 +51,14 @@ This repository showcases the outcomes of tasks undertaken in the PwC Switzerlan
   - Identify potential root causes for the slow progress in achieving gender balance at the executive management level
 
 ## Data Visualization --- Diversity & Inclusion Dashboard
+
+Dashboard Outline:
+- Diversity & Inclusion Dashboard
+- Hiring 
+- Promotion 
+- Turnover 
+- Performance
+- Executive Gender Balance
 
 ![Task 3 Dashboard 1](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%203/task-3-dashboard-images/task-3-1.png)
 ![Task 3 Dashboard 2](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%203/task-3-dashboard-images/task-3-2.png)
