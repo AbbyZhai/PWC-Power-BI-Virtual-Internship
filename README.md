@@ -1,9 +1,13 @@
-# PWC Power BI Virtual Internship 
+# <img src="https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Power-BI-Logo.png" alt="Alt Text" width="70"/> PWC Power BI Virtual Internship
 
 ## Introduction
 This repository showcases the outcomes of tasks undertaken in the PwC Switzerland PowerBI Virtual Case Experience, designed by Forage. The virtual internship simulates the workflow of the Digital Accelerator team at PWC Switzerland, utilizing PowerBI to tell data stories and enhance the decision-making process.
 
+## Scenario
+At PwC, we empower our 276,000 employees globally through continuous upskilling, fostering expertise in digital domains like data, automation, AI, and digital storytelling. The "Digital Accelerators" program, guided by your manager Giulia, propels individuals to become data Jedi and experts in PowerBI. An important client has already sought your assistance in visualizing their data, showcasing the immediate impact of your upskilling journey.
+
 ## Task List
+This virtual experience program has 3 main tasks:
 - [Task 1 --- Call Center Dashboard](##data-visualization-----call-center-dashboard)
 - [Task 2 --- Call Churn Dashboard](##data-visualization-----churn-dashboard)
 - [Task 3 --- Diversity & Inclusion Dashboard](##data-visualization-----diversity-&-inclusion-dashboard)
