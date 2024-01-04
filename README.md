@@ -17,7 +17,7 @@ At PwC, we empower our 276,000 employees globally through continuous upskilling,
 ## Task List
 This virtual experience program has 3 main tasks:
 - [Task 1 --- Call Center Dashboard](##data-visualization-----call-center-dashboard)
-- [Task 2 --- Churn Dashboard](##data-visualization-----churn-dashboard)
+- [Task 2 --- Customer Retention Dashboard](##data-visualization-----churn-dashboard)
 - [Task 3 --- Diversity & Inclusion Dashboard](##data-visualization-----diversity-&-inclusion-dashboard)
 
 ## Task 1: Call Center Dashboard - visualizing customer and agent behavior
@@ -34,6 +34,9 @@ This virtual experience program has 3 main tasks:
 
 ## Data Visualization
 
+**Dashboard Outline**:
+- Call Center Overview (KPIs, Call Trends, and Agent Performance)
+  
 ![Task 1 Dashboard](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%201/task-1.png)
 
 ## Task 2: Customer Retention Analysis Dashboard - visualizing customer demographics and insights 
@@ -46,7 +49,7 @@ This virtual experience program has 3 main tasks:
 ## Data Visualization
 
 **Dashboard Outline**:
-- Churn Dashboard
+- Customer Churn Overview
 - Demographics (Distribution & Key Influencers)
 - Payments (Distribution & Key Influencers)
 - Services (Distribution & Key Influencers)
@@ -72,7 +75,7 @@ This virtual experience program has 3 main tasks:
 ## Data Visualization
 
 **Dashboard Outline**:
-- Diversity & Inclusion Dashboard
+- Diversity & Inclusion Overview
 - Hiring 
 - Promotion 
 - Turnover 
