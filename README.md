@@ -81,4 +81,9 @@ This virtual experience program has 3 main tasks:
 
 
 ## Technical Stack 
-Data Cleaning, Data Transformation, Data Modeling, Data Visualization, and Writing. 
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- Data Analysis
+- Data Visualization
+- Written Communication
