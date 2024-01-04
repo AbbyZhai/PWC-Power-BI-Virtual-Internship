@@ -9,7 +9,7 @@ At PwC, we empower our 276,000 employees globally through continuous upskilling,
 ## Task List
 This virtual experience program has 3 main tasks:
 - [Task 1 --- Call Center Dashboard](##data-visualization-----call-center-dashboard)
-- [Task 2 --- Call Churn Dashboard](##data-visualization-----churn-dashboard)
+- [Task 2 --- Churn Dashboard](##data-visualization-----churn-dashboard)
 - [Task 3 --- Diversity & Inclusion Dashboard](##data-visualization-----diversity-&-inclusion-dashboard)
 
 ## Task 1: Call Center Dashboard - visualizing customer and agent behavior
