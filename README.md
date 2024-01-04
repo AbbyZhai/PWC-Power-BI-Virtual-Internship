@@ -76,5 +76,21 @@ Dashboard Outline:
 ![Task 3 Dashboard 5](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%203/task-3-dashboard-images/task-3-5.png)
 ![Task 3 Dashboard 6](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%203/task-3-dashboard-images/task-3-6.png)
 
+## Insights
+Addressing gender imbalance is vital for fostering workplace inclusivity. The insights below highlight gender dynamics in executive roles, emphasizing new hires, promotion trends, stagnation, and performance ratings.
+
+- Hiring: Significant gender imbalance in the new hiring process; all 4 executives hired are males.
+- Promotion: Fewer female employees get executive-level promotions in FY20 and FY21. (No female promotions in FY20, and only 1 in FY21, while 2 males were promoted in FY20 and 3 in FY21.)
+- Stagnation: Female employees experience longer stagnation (6 years) at the current job level compared to male counterparts (3 years on average).
+- Performance: Female executives receive a lower average performance rating (2) compared to males (2.6) with a rating range of 0-5.
+
+Possible root causes of the imbalances:
+- Hiring: Insufficient efforts to seek diverse candidates or lack of targeted outreach to diverse talent pools.
+- Promotion: Unconscious bias favoring males and lack of transparent promotion criteria.
+- Stagnation: Female employees may lack awareness about career advancement pathways or face gender-specific challenges hindering progression.
+- Performance: Possible biased evaluation criteria or systemic gender-based challenges in the workplace.
+
+
+
 ## Technical Stack 
 Data Cleaning, Data Transformation, Data Modeling, Data Visualization, and Writing. 
