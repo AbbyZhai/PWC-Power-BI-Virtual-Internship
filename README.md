@@ -6,6 +6,14 @@ This repository showcases the outcomes of tasks undertaken in the PwC Switzerlan
 ## Scenario
 At PwC, we empower our 276,000 employees globally through continuous upskilling, fostering expertise in digital domains like data, automation, AI, and digital storytelling. The "Digital Accelerators" program, guided by your manager Giulia, propels individuals to become data Jedi and experts in PowerBI. An important client has already sought your assistance in visualizing their data, showcasing the immediate impact of your upskilling journey.
 
+## Technical Stack 
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- Data Analysis
+- Data Visualization
+- Written Communication
+  
 ## Task List
 This virtual experience program has 3 main tasks:
 - [Task 1 --- Call Center Dashboard](##data-visualization-----call-center-dashboard)
@@ -70,6 +78,7 @@ This virtual experience program has 3 main tasks:
 - Turnover 
 - Performance
 - Executive Gender Balance
+- Insight & Possible Root Causes
 
 ![Task 3 Dashboard 1](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%203/task-3-dashboard-images/task-3-1.png)
 ![Task 3 Dashboard 2](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%203/task-3-dashboard-images/task-3-2.png)
@@ -80,10 +89,4 @@ This virtual experience program has 3 main tasks:
 ![Task 3 Dashboard 7](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%203/task-3-dashboard-images/task-3-7.png)
 
 
-## Technical Stack 
-- Data Cleaning
-- Data Transformation
-- Data Modeling
-- Data Analysis
-- Data Visualization
-- Written Communication
+
