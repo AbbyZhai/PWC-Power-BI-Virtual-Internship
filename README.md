@@ -75,6 +75,8 @@ Dashboard Outline:
 ![Task 3 Dashboard 4](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%203/task-3-dashboard-images/task-3-4.png)
 ![Task 3 Dashboard 5](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%203/task-3-dashboard-images/task-3-5.png)
 ![Task 3 Dashboard 6](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%203/task-3-dashboard-images/task-3-6.png)
+![Task 3 Dashboard 7](https://github.com/AbbyZhai/PWC-Power-BI-Virtual-Internship/blob/main/Task%203/task-3-dashboard-images/task-3-7.png)
+
 
 ## Insights
 Addressing gender imbalance is vital for fostering workplace inclusivity. The insights below highlight gender dynamics in executive roles, emphasizing new hires, promotion trends, stagnation, and performance ratings.
